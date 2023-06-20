@@ -1,0 +1,17 @@
+C:\Users\Harzeez\Desktop\ADOProject\bin\Debug\net6.0\ADOProject.exe
+C:\Users\Harzeez\Desktop\ADOProject\bin\Debug\net6.0\ADOProject.deps.json
+C:\Users\Harzeez\Desktop\ADOProject\bin\Debug\net6.0\ADOProject.runtimeconfig.json
+C:\Users\Harzeez\Desktop\ADOProject\bin\Debug\net6.0\ADOProject.dll
+C:\Users\Harzeez\Desktop\ADOProject\bin\Debug\net6.0\ref\ADOProject.dll
+C:\Users\Harzeez\Desktop\ADOProject\bin\Debug\net6.0\ADOProject.pdb
+C:\Users\Harzeez\Desktop\ADOProject\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Harzeez\Desktop\ADOProject\obj\Debug\net6.0\ADOProject.csproj.AssemblyReference.cache
+C:\Users\Harzeez\Desktop\ADOProject\obj\Debug\net6.0\ADOProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harzeez\Desktop\ADOProject\obj\Debug\net6.0\ADOProject.AssemblyInfoInputs.cache
+C:\Users\Harzeez\Desktop\ADOProject\obj\Debug\net6.0\ADOProject.AssemblyInfo.cs
+C:\Users\Harzeez\Desktop\ADOProject\obj\Debug\net6.0\ADOProject.csproj.CoreCompileInputs.cache
+C:\Users\Harzeez\Desktop\ADOProject\obj\Debug\net6.0\ADOProject.csproj.CopyComplete
+C:\Users\Harzeez\Desktop\ADOProject\obj\Debug\net6.0\ADOProject.dll
+C:\Users\Harzeez\Desktop\ADOProject\obj\Debug\net6.0\ref\ADOProject.dll
+C:\Users\Harzeez\Desktop\ADOProject\obj\Debug\net6.0\ADOProject.pdb
+C:\Users\Harzeez\Desktop\ADOProject\obj\Debug\net6.0\ADOProject.genruntimeconfig.cache

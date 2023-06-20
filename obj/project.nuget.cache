@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pTXg5nrpUQ809s8zJChOU0oqBcESanbYwc4w0iaqOq9OiUUKQIwrBc3kRZlT+1qGWL0FL6s4kG5quPKrGM5V8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Harzeez\\Desktop\\ADOProject\\ADOProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harzeez\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
